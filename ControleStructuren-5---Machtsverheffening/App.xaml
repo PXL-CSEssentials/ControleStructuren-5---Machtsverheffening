@@ -1,0 +1,9 @@
+﻿<Application x:Class="ControleStructuren_5___Machtsverheffening.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ControleStructuren_5___Machtsverheffening"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
